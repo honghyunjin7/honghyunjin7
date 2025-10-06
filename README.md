@@ -11,7 +11,6 @@
 **저는 새로운 기술을 배우고 적용하는 것을 좋아합니다.**
 **현재는 게임 개발과 인공지능 분야에 관심을 가지고 공부하고 있습니다.**
 **함께 성장하고 지식을 나누는 것을 즐깁니다.그리고 주언어는 C이며 서브언어로 python을 공부하고 있습니다.**
-**현재는 학교에서 AISW수학, 웹프로그래밍, 문제해결형 프로래밍을 배우고 있습니다!**
 
 <br>
 
@@ -24,6 +23,12 @@
 ## 💻 Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+
+## 🌱 학습 목표 (Learning Goals)
+
+*   2학기에는 **AISW수학, 문제해결형 프로그래밍, 웹프로그래밍**을 집중적으로 공부합니다.
 
 <br>
 
