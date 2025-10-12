@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome!&fontSize=70" width="100%" height="auto"/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="200" height="200" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="200" height="200" />
+</div>
+
+<div align="center">
 
 # 👋 안녕하세요! 홍현진입니다.
 
