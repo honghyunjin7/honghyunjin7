@@ -19,6 +19,12 @@
 
 <br>
 
+### 🎮 좋아하는 게임 및 개발 철학
+
+저는 **팀원들과 협력하여 승리를 쟁취하는 3D PVP 게임**을 즐겨 합니다. 이러한 경험을 바탕으로, **"플레이어들이 팀워크를 통해 최고의 경험을 하고, 협동하여 이겼을 때의 기쁨을 함께 나누는 게임"**을 만드는 것을 목표로 하고 있습니다.
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&label=Main"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Sub">
