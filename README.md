@@ -48,6 +48,7 @@
 ## 🏆 Project plan
 
 *   3D게임개발하기
+*   생성형AI 개발하기
 
 <br>
 
