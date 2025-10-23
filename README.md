@@ -45,7 +45,7 @@
 
 <br>
 
-## 🏆 Projects
+## 🏆 Project plan
 
 *   3D게임개발하기
 
