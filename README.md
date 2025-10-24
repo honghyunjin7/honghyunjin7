@@ -66,6 +66,7 @@
 <a href="https://github.com/honghyunjin7"><img src="http://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:hong6658@hs.ac.kr"><img src="http://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PC-blue?style=for-the-badge"/>
 
 <br>
 <br>
