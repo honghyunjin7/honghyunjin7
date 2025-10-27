@@ -37,6 +37,12 @@
 
 <br>
 
+## 💻 Coding Profiles
+
+<a href="https://www.acmicpc.net/user/hhjin6329"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hhjin6329"/></a>
+
+<br>
+
 ## 🌱 학습 목표 (Learning Goals)
 
 *   2학기에는 **AISW수학, 문제해결형 프로그래밍, 웹프로그래밍**을 집중적으로 공부합니다.
