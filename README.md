@@ -1,3 +1,4 @@
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Welcome!&fontSize=70" width="100%" height="auto"/>
 
 <div align="center">
@@ -20,13 +21,6 @@
 저는 **팀원들과 협력하여 승리를 쟁취하는 3D PVP 게임**을 즐겨 합니다. 이러한 경험을 바탕으로, **"플레이어들이 팀워크를 통해 최고의 경험을 하고, 협동하여 이겼을 때의 기쁨을 함께 나누는 게임"**을 만드는 것을 목표로 하고 있습니다.
 
 </div>
-
-<br>
-
-## 📅 기말고사 D-day
-<!-- D-DAY-START -->
-**D-day를 보려면 update_readme.py를 실행하세요.**
-<!-- D-DAY-END -->
 
 <br>
 
