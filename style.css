@@ -28,3 +28,11 @@ h1 {
     font-weight: bold;
     color: #dc3545;
 }
+
+.centered-text {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #555;
+}
+
